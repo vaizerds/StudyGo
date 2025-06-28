@@ -14,12 +14,19 @@ This repository contains my journey learning the **Go programming language (Gola
 
 StudyGo/
 ├── 01-introduction/
+
 ├── 02-functions/
+
 ├── 03-structures/
+
 ├── 04-concurrency/
+
 ├── 05-modules/
+
 ├── 06-projects/
+
 └── README.md
+
 
 
 | Folder            | Contents                                                      |

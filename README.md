@@ -62,14 +62,10 @@ StudyGo/
 
 Clone the repository:
 
-bash
-
 git clone https://github.com/vaizerds/StudyGo.git
 
 cd StudyGo
 
-
-bash
 
 git clone https://github.com/vaizerds/StudyGo.git
 
